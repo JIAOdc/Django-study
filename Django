@@ -1,0 +1,7 @@
+Django基础知识：
+	一、搭建虚拟环境virtualenv：
+		第一步：安装：pip install virtualenv：
+		参数：virtualenv
+			-p： 指定安装在虚拟环境中的python版本，如果不指定则虚拟环境中安装的python版本为环境变量中设置的python版本
+			--no-site-packages：指定虚拟环境中没有安装任何的包
+		第二步：使用python3创建虚拟环境：
