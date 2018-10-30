@@ -77,4 +77,4 @@
 		创建超级用户
 			命令：python manage.py createsuperuser
 			数据存在auth_user表中
-在admin.py中注册模型：admin.site.register(模型名)
+                在admin.py中注册模型：admin.site.register(模型名) 
